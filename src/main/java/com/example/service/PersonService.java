@@ -18,6 +18,11 @@ public class PersonService {
 		p.setFirstName("fatma");
 		p.setLastName("ahmed");
 		persons.add(p);
+		p.setId("00");
+		p.setAge(22);
+		p.setFirstName("ahmed");
+		p.setLastName("elsayed");
+		persons.add(p);
 		
 		p.setId("1");
 		p.setAge(21);
